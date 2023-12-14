@@ -126,15 +126,15 @@ def calculate_bleu(reference, candidate):
 def calculate_rouge(reference, candidate):
     rouge = Rouge()
     scores = rouge.get_scores(candidate, reference)
-    return scores[0]  # 返回第一个样本的得分
+    return scores[0]  # Return the score of the first sample
 
 def calculate_bertscore(reference, hypothesis):
     """
-    计算BERTScore。
+    calculate BERTScore。
     
-    :param reference: 参考文本。
-    :param hypothesis: 生成文本。
-    :return: 返回BERTScore的P, R, F1分数。
+    :param reference: Reference text.
+    :param hypothesis: Generate text.
+    :return: Returns the P, R, F1 scores of BERTScore.
     """
     P, R, F1 = score([hypothesis], [reference], lang='en', model_type='bert-base-uncased')
     return P.item(), R.item(), F1.item()
@@ -212,7 +212,7 @@ def generate_sample(data, tokenizer, model, num=1, eval_step=False, length=100, 
             bleu_score = calculate_bleu(reference, text)
             rouge_score = calculate_rouge(reference, text)
             bertscore_P, bertscore_R, bertscore_F1 = calculate_bertscore(reference, text)
-            # 输出结果
+            # Output results
             print("BLEU Score:", bleu_score)
             print("ROUGE Score:", rouge_score)
             print("BERTScore - Precision: {}, Recall: {}, F1: {}".format(bertscore_P, bertscore_R, bertscore_F1))
@@ -277,7 +277,7 @@ def generate_sample_all(data, tokenizer, model, num=1, length=100, save_path=Non
         total_rouge_l['p'] += score['rouge-l']['p']
         total_rouge_l['r'] += score['rouge-l']['r']
 
-    # 计算平均ROUGE分数
+    # Calculate the average ROUGE score
     avg_rouge = {
         'rouge-1': {
             'f': total_rouge_1['f'] / len(rouge_scores),
@@ -296,56 +296,14 @@ def generate_sample_all(data, tokenizer, model, num=1, length=100, save_path=Non
         }
     }
 
-    # 计算平均BERTScore
+    # Calculate average BERTScore
     avg_bert = np.mean(bert_scores, axis=0)
 
-    # 打印平均分数
+    # print average score
     print("Average ROUGE-1: {}".format(avg_rouge['rouge-1']))
     print("Average ROUGE-2: {}".format(avg_rouge['rouge-2']))
     print("Average ROUGE-L: {}".format(avg_rouge['rouge-l']))
     print("Average BERTScore - Precision: {}, Recall: {}, F1: {}".format(avg_bert[0], avg_bert[1], avg_bert[2]))
 
-    # 返回平均分数
+    # Return the average score
     return {'rouge': avg_rouge, 'bert': avg_bert}
-    # 初始化累加器
-    total_rouge_1_f = total_rouge_2_f = total_rouge_l_f = 0
-    total_rouge_1_p = total_rouge_2_p = total_rouge_l_p = 0
-    total_rouge_1_r = total_rouge_2_r = total_rouge_l_r = 0
-
-    # 累加每个评分
-    for score in rouge_scores:
-        total_rouge_1_f += score['rouge-1']['f']
-        total_rouge_1_p += score['rouge-1']['p']
-        total_rouge_1_r += score['rouge-1']['r']
-
-        total_rouge_2_f += score['rouge-2']['f']
-        total_rouge_2_p += score['rouge-2']['p']
-        total_rouge_2_r += score['rouge-2']['r']
-
-        total_rouge_l_f += score['rouge-l']['f']
-        total_rouge_l_p += score['rouge-l']['p']
-        total_rouge_l_r += score['rouge-l']['r']
-
-    # 计算平均值
-    avg_rouge_1_f = total_rouge_1_f / len(rouge_scores)
-    avg_rouge_1_p = total_rouge_1_p / len(rouge_scores)
-    avg_rouge_1_r = total_rouge_1_r / len(rouge_scores)
-
-    avg_rouge_2_f = total_rouge_2_f / len(rouge_scores)
-    avg_rouge_2_p = total_rouge_2_p / len(rouge_scores)
-    avg_rouge_2_r = total_rouge_2_r / len(rouge_scores)
-
-    avg_rouge_l_f = total_rouge_l_f / len(rouge_scores)
-    avg_rouge_l_p = total_rouge_l_p / len(rouge_scores)
-    avg_rouge_l_r = total_rouge_l_r / len(rouge_scores)
-
-    # 打印平均分数
-    print("Average ROUGE-1: F1={}, P={}, R={}".format(avg_rouge_1_f, avg_rouge_1_p, avg_rouge_1_r))
-    print("Average ROUGE-2: F1={}, P={}, R={}".format(avg_rouge_2_f, avg_rouge_2_p, avg_rouge_2_r))
-    print("Average ROUGE-L: F1={}, P={}, R={}".format(avg_rouge_l_f, avg_rouge_l_p, avg_rouge_l_r))
-    # Calculate average scores
-    avg_bert = np.mean(bert_scores, axis=0)
-    print("Average BERTScore - Precision: {}, Recall: {}, F1: {}".format(avg_bert[0], avg_bert[1], avg_bert[2]))
-
-    # Return average scores
-    return avg_bert
