@@ -1,0 +1,379 @@
+Article 1:
+Generated Summary:    the hotel is now home to squatters , many of them refugees .   residents complain that it is a ` poverty ' hotel .   the hotel closed in 1963 after little demand meant it never made a profit .   residents complain
+Actual Summary:  the beira grande hotel in mozambique was once the pride of africa attracting wealthy businessmen and tourists.   but since closing and now lying in ruins it is now home to around 3,500 squatters.   drugs and disease are said to be rife within the once grand hotel. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.2631578947368421, 'p': 0.3333333333333333, 'f': 0.2941176421280277}, 'rouge-2': {'r': 0.08695652173913043, 'p': 0.11428571428571428, 'f': 0.09876542719097722}, 'rouge-l': {'r': 0.2631578947368421, 'p': 0.3333333333333333, 'f': 0.2941176421280277}}
+BERTScore - Precision: 0.5750415325164795, Recall: 0.26808446645736694, F1: 0.3656860589981079
+
+Article 2:
+Generated Summary:    the report also includes the cost of registration , minimum capital , and minimum capital .   in the u.s. rankings , it takes only one step and one day to integrate a company .   it takes only one step and one
+Actual Summary:  the world bank's annual `` doing business '' report ranks countries and territories for how easy it is to run a company there.   the ranking looks at how many steps it takes and how much capital is required.   new zealand is said to be the easiest place to start a company. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.225, 'p': 0.36, 'f': 0.2769230721893492}, 'rouge-2': {'r': 0.04, 'p': 0.0625, 'f': 0.04878048304580653}, 'rouge-l': {'r': 0.225, 'p': 0.36, 'f': 0.2769230721893492}}
+BERTScore - Precision: 0.5396024584770203, Recall: 0.2787569463253021, F1: 0.36760851740837097
+
+Article 3:
+Generated Summary:    herr says the trays of food are made from cardboard .   she also creates trays of cardboard for sale on supermarket shelves .   she uses images of food to create unique trays .    unique : trays
+Actual Summary:  stefanie herr stacks hundreds of layers of cardboard together to create lifelike sculptures of food.   the spanish artist's quirky creations sell for up to # 400. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.3333333333333333, 'p': 0.3333333333333333, 'f': 0.3333333283333334}, 'rouge-2': {'r': 0.11538461538461539, 'p': 0.1, 'f': 0.10714285216836758}, 'rouge-l': {'r': 0.3333333333333333, 'p': 0.3333333333333333, 'f': 0.3333333283333334}}
+BERTScore - Precision: 0.5695675015449524, Recall: 0.2284848839044571, F1: 0.326137900352478
+
+Article 4:
+Generated Summary:    911 calls reflect a mix of shock , calmness and swift action by students , witnesses .   three 911 calls recorded shortly after the shooting .   one student talks to 911 operators while a classmate attempts to tend to bleeding neck and chest
+Actual Summary:  seattle police released three 911 calls recorded shortly after the university shooting.   one student talks calmly to the operator even as he's bleeding from a wound in his neck.   another describes suspect aaron ybarra, 26, walking up behind a student and shooting him point blank.   the 911 calls show ` the remarkable calm and resourcefulness of students, faculty, and other witnesses,'police say.   student paul lee died from his wounds.  
+ROUGE Score: {'rouge-1': {'r': 0.2982456140350877, 'p': 0.5151515151515151, 'f': 0.37777777313333333}, 'rouge-2': {'r': 0.1323529411764706, 'p': 0.23076923076923078, 'f': 0.16822429443270168}, 'rouge-l': {'r': 0.2807017543859649, 'p': 0.48484848484848486, 'f': 0.35555555091111113}}
+BERTScore - Precision: 0.6992893218994141, Recall: 0.5622472167015076, F1: 0.6233247518539429
+
+Article 5:
+Generated Summary:    schaeuble wants to give european powers over national budgets of individual states .   he says he wants to concentrate on far-reaching reforms that include : .   giving the eu far greater powers over national budgets of individual
+Actual Summary:  german finance minister wolfgang schaeuble ` determined'to end euro crisis.   plan is to give eu greater powers over national budgets of individual states.   making the european commissioner for economic and currency affairs equally as powerful as the commissioner for competition.   forcing individual member states to hand over part of their budget sovereignty to brussels, allowing the currency affairs commissioner to exercise veto power over national budgets. this would give brussels to the right to send back
+ROUGE Score: {'rouge-1': {'r': 0.25925925925925924, 'p': 0.5384615384615384, 'f': 0.34999999561250006}, 'rouge-2': {'r': 0.11267605633802817, 'p': 0.2857142857142857, 'f': 0.1616161575594328}, 'rouge-l': {'r': 0.25925925925925924, 'p': 0.5384615384615384, 'f': 0.34999999561250006}}
+BERTScore - Precision: 0.6923032999038696, Recall: 0.5656567811965942, F1: 0.6226049065589905
+
+Article 6:
+Generated Summary:    aiden mcgeady has made five starts and 13 substitute appearances and is set to make the most of every minute remaining of his summer football .   to make the most of every minute remaining of his summer football he wants to maximise
+Actual Summary:  ireland winger has made just five starts for the toffees.   mcgeady moved to goodison park from spartak moscow in january. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.3333333333333333, 'p': 0.2692307692307692, 'f': 0.2978723354821186}, 'rouge-2': {'r': 0.1, 'p': 0.06896551724137931, 'f': 0.08163264822990449}, 'rouge-l': {'r': 0.3333333333333333, 'p': 0.2692307692307692, 'f': 0.2978723354821186}}
+BERTScore - Precision: 0.4277334213256836, Recall: 0.20485815405845642, F1: 0.2770339548587799
+
+Article 7:
+Generated Summary:    the girl is 10 weeks pregnant and living with relatives of the father of her unborn baby .   the girl 's grandmother carmen pantoja has denied the allegations against her family .   judge missy medary has banned the
+Actual Summary:  texas teenager gets temporary order against family.   claims her adult cousins threatened to beat her up.   now staying with boyfriend's family who support her.   girl's grandmother claims she only offered advice. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.17857142857142858, 'p': 0.17857142857142858, 'f': 0.17857142357142872}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.17857142857142858, 'p': 0.17857142857142858, 'f': 0.17857142357142872}}
+BERTScore - Precision: 0.5314214825630188, Recall: 0.19865253567695618, F1: 0.2891986668109894
+
+Article 8:
+Generated Summary:    auctioning off # 195 t-shirt will be fierce .   styles ' burberry t-shirt worn by harry styles -lrb- and on style brand 's website .   will go on sale on november
+Actual Summary:  the top will be sold in an online auction raising funds for unicef.   the # 195 t-shirt was worn to the burberry s/s14 show by the boybander.   other items in the auction belong to david beckham and ronnie wood. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.2727272727272727, 'p': 0.375, 'f': 0.3157894688088643}, 'rouge-2': {'r': 0.07692307692307693, 'p': 0.10714285714285714, 'f': 0.08955223394074431}, 'rouge-l': {'r': 0.24242424242424243, 'p': 0.3333333333333333, 'f': 0.2807017495106187}}
+BERTScore - Precision: 0.5684767961502075, Recall: 0.28613007068634033, F1: 0.38066229224205017
+
+Article 9:
+Generated Summary:    george osborne is the first politician to appear on the andrew marr show .   he was a guest on the andrew marr show when the presenter introduced keane at the end of the programme .   the comedian
+Actual Summary:  as keane start to play, osborne looks nonplussed - but when he realises the camera is on him, he starts bobbing his head in time to the music. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.3076923076923077, 'p': 0.32, 'f': 0.3137254851980008}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.23076923076923078, 'p': 0.24, 'f': 0.23529411264898129}}
+BERTScore - Precision: 0.4245022237300873, Recall: 0.19951903820037842, F1: 0.2714531719684601
+
+Article 10:
+Generated Summary:    david rolls allegedly offered non-existent tickets online .   david rolls allegedly ripped off thousands of music lovers .   gary agar belonged to good time entertainment with other men .   other events targeted included the t in the park
+Actual Summary:  fake tickets allegedly sold over the internet and 100 % profits siphoned off.   lagan, 49, rolls, 48, and agar, 44, all deny charges at harrow crown court. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.14814814814814814, 'p': 0.13333333333333333, 'f': 0.14035087220683307}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.1111111111111111, 'p': 0.1, 'f': 0.1052631529085875}}
+BERTScore - Precision: 0.4890155792236328, Recall: 0.22712236642837524, F1: 0.31018152832984924
+
+Article 11:
+Generated Summary:    the book was published last year , and will be released in 2014 .   photographer is currently in the process of developing his idea for the mobile photo book .   he says he hopes the book will be a ` fresh air ' for
+Actual Summary:  out of the phone is the first publisher to focus on mobile photography exclusively.   a new anthology highlights 100 of the best instagram pictures of 2014.   founder pierre le govic aims to showcase both amateur and professional photographers. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.20588235294117646, 'p': 0.21875, 'f': 0.21212120712580362}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.17647058823529413, 'p': 0.1875, 'f': 0.18181817682277332}}
+BERTScore - Precision: 0.48827219009399414, Recall: 0.2319062501192093, F1: 0.3144592046737671
+
+Article 12:
+Generated Summary:    she has been a u.s. senator from new york since 1993 .   she is often rated as the most popular member of obama 's cabinet .   she is often rated as the most popular member of obama
+Actual Summary:  hillary clinton to step down as secretary of state regardless of whether president obama is elected to a second term.   bill clinton says his wife has demonstrated ` extraordinary ability'as a senator and as secretary of state. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.23333333333333334, 'p': 0.2916666666666667, 'f': 0.25925925432098773}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.2, 'p': 0.25, 'f': 0.22222221728395072}}
+BERTScore - Precision: 0.4519169330596924, Recall: 0.21288280189037323, F1: 0.2894265353679657
+
+Article 13:
+Generated Summary:    health and safety officials sent this picture of worker precariously perched on top of a five-storey structure .   they also found the work ` poorly planned ' and that two of the workers were untrained .   hse
+Actual Summary:  jos scaffolding erected unsafe five-storey platforms last year in london.   concerned passers-by sent pictures to health and safety inspectors.   investigation revealed ` poorly planned'job - and two untrained workers.   company admitted breaching work regulations and was fined # 5,000 today.   inspectors said the ` sorely lacking'scaffolding put lives at risk. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.2553191489361702, 'p': 0.3870967741935484, 'f': 0.3076923029026956}, 'rouge-2': {'r': 0.06, 'p': 0.08823529411764706, 'f': 0.07142856660997764}, 'rouge-l': {'r': 0.2127659574468085, 'p': 0.3225806451612903, 'f': 0.2564102516206444}}
+BERTScore - Precision: 0.6418020725250244, Recall: 0.3508651554584503, F1: 0.45369887351989746
+
+Article 14:
+Generated Summary:    djokovic beat nadal in rome last month and italian final two weeks ago .   nadal beat djokovic in italian final last month .   djokovic is a novak djokovic .
+Actual Summary:  murray's 6-1 first set against nadal at the italian open last month was his best ever tennis on clay.   novak djokovic's victories over nadal in miami and rome were masterclasses.   the serb has had a lot of success hitting to nadal's forehand side.   murray's movement is outstanding and his backhand is better than ever. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.20833333333333334, 'p': 0.625, 'f': 0.31249999625}, 'rouge-2': {'r': 0.037037037037037035, 'p': 0.08695652173913043, 'f': 0.05194804775847563}, 'rouge-l': {'r': 0.20833333333333334, 'p': 0.625, 'f': 0.31249999625}}
+BERTScore - Precision: 0.6854207515716553, Recall: 0.41051751375198364, F1: 0.5134910345077515
+
+Article 15:
+Generated Summary:    she has also insisted she is healthy .   she says she is recovering well from her fall .   the state department claims clinton was suffering a concussion .   the official denied claims that she is ` healthy ' after her fall
+Actual Summary:  the national enquirer claims brain cancer is behind clinton's recent collapse and that she is facing a barrage of medical tests.   state department labelled the claims ` absolute nonsense'and insists she is recovering well at home.   the secretary of state suffered a concussion after she collapsed in her home earlier this month.   on friday, president barack obama.   nominated senator john kerry to replace clinton.   after she chose to step down. 
+ROUGE Score: {'rouge-1': {'r': 0.2631578947368421, 'p': 0.5555555555555556, 'f': 0.35714285278061225}, 'rouge-2': {'r': 0.08823529411764706, 'p': 0.17647058823529413, 'f': 0.11764705437908515}, 'rouge-l': {'r': 0.22807017543859648, 'p': 0.48148148148148145, 'f': 0.3095238051615647}}
+BERTScore - Precision: 0.7347143888473511, Recall: 0.5613867044448853, F1: 0.6364610195159912
+
+Article 16:
+Generated Summary:    terry has been in talks with roy keane for a number of days .   terry has been in talks with roy keane for a number of days , and both men share a deep loyalty to the methods of brian cl
+Actual Summary:  chelsea skipper could be offered role as itv world cup pundit.   roy keane pulled out of itv's coverage to focus on coaching.   terry quit international football in 2012.   if terry takes role with itv then he will be up against rio ferdinand on the bbc. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.1951219512195122, 'p': 0.32, 'f': 0.24242423771809007}, 'rouge-2': {'r': 0.022222222222222223, 'p': 0.037037037037037035, 'f': 0.027777773090278568}, 'rouge-l': {'r': 0.1951219512195122, 'p': 0.32, 'f': 0.24242423771809007}}
+BERTScore - Precision: 0.44743406772613525, Recall: 0.265351265668869, F1: 0.3331359028816223
+
+Article 17:
+Generated Summary:    dorries was the first mp to go public and say she would consider it .   ukip have also said they would not allow a joint ticket .   nadine dorries was the first to go public and
+Actual Summary:  ukip figurehead says some tories are keen to avoid splitting the vote in 2015.   but a conservative source said : ` we wouldn't allow it'<|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.24, 'p': 0.24, 'f': 0.2399999950000001}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.16, 'p': 0.16, 'f': 0.15999999500000017}}
+BERTScore - Precision: 0.46800509095191956, Recall: 0.19034868478775024, F1: 0.2706269919872284
+
+Article 18:
+Generated Summary:    beckham has been criticised by local residents for his plans to build a 20,000-seat stadium in museum park .   beckham has plans for a 20,000-seat stadium .   beckham has been criticised by locals
+Actual Summary:  david beckham has a major league soccer franchise in miami.   former england captain plans to build a 20,000 seater stadium for the team.   plans for the stadium in museum park have angered miami residents.   opponents have claimed the plans would be rejected if proposed in london. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.3333333333333333, 'p': 0.631578947368421, 'f': 0.4363636318413224}, 'rouge-2': {'r': 0.17777777777777778, 'p': 0.34782608695652173, 'f': 0.23529411317041526}, 'rouge-l': {'r': 0.3055555555555556, 'p': 0.5789473684210527, 'f': 0.39999999547768605}}
+BERTScore - Precision: 0.6808077096939087, Recall: 0.3005037307739258, F1: 0.41696295142173767
+
+Article 19:
+Generated Summary:    she married merah in 2009 .   but she was married to merah for 17 days before his death .   merah claimed he ` trained ' on call of duty .   he said he ` trained ' on call of
+Actual Summary:  violent video game linked to second high-profile mass murder.   follows norweigan mass killer's claims that he trained on game.   mp keith vaz has called for restrictions on the games industry. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.17857142857142858, 'p': 0.20833333333333334, 'f': 0.19230768733727824}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.17857142857142858, 'p': 0.20833333333333334, 'f': 0.19230768733727824}}
+BERTScore - Precision: 0.45934373140335083, Recall: 0.28639763593673706, F1: 0.3528165817260742
+
+Article 20:
+Generated Summary:    mission will cost $ 671 million .   mission will launch from a september 22 , 2014 rendezvous with mars .   mission will take about 15 months to complete .   mission will cost $ 671 million . 
+Actual Summary:  maven logs more than 14,000 miles on its first day, nasa says.   the unmanned probe is en route to mars to study the red planet's atmosphere.   the mission launched monday afternoon ; it's scheduled to arrive in september 2014. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.1388888888888889, 'p': 0.21739130434782608, 'f': 0.16949152066647527}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.1388888888888889, 'p': 0.21739130434782608, 'f': 0.16949152066647527}}
+BERTScore - Precision: 0.5117875933647156, Recall: 0.2713988125324249, F1: 0.35470110177993774
+
+Article 21:
+Generated Summary:  they are an extinct class of prehistoric fish which lived around 400 million years ago .   the placoderm fish from north west australia were found in the gogo formation .   scientists have found that placoderms were more common in
+Actual Summary:  rare soft tissue taken from fish fossils found in north west australia show that the fish had powerful abdominal muscles.   swedish scientists claim that these are not unlike those muscles found in human six packs.   living fish have simple body musculature meaning scientists can use this discovery to track how abs changed and evolved. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.25, 'p': 0.375, 'f': 0.29999999520000004}, 'rouge-2': {'r': 0.05660377358490566, 'p': 0.08333333333333333, 'f': 0.06741572551950546}, 'rouge-l': {'r': 0.20833333333333334, 'p': 0.3125, 'f': 0.24999999520000007}}
+BERTScore - Precision: 0.52131587266922, Recall: 0.26868563890457153, F1: 0.35460716485977173
+
+Article 22:
+Generated Summary:    she has been an adviser to presidential candidates for years and has become one of the biggest political voices on the campaign trial .   her twitter feed has been a key part of the campaign to promote her campaign .   ms cutter is
+Actual Summary:  stephanie cutter is a deputy campaign manager for president obama. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.45454545454545453, 'p': 0.16129032258064516, 'f': 0.23809523422902495}, 'rouge-2': {'r': 0.1, 'p': 0.02702702702702703, 'f': 0.04255318813942987}, 'rouge-l': {'r': 0.45454545454545453, 'p': 0.16129032258064516, 'f': 0.23809523422902495}}
+BERTScore - Precision: 0.4813118577003479, Recall: 0.1599709838628769, F1: 0.2401309460401535
+
+Article 23:
+Generated Summary:    aziz was sentenced to 15 years in prison in connection with the 1992 executions of 42 merchants .   his family is furious at the sentence .   tariq aziz , one of the best-known faces of the iraq
+Actual Summary:  he did nothing wrong and the trial was unfair, his daughter tells cnn.   aziz was iraq's deputy prime minister from 1981 to 2003.   the vatican released statement on tuesday. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.17857142857142858, 'p': 0.17857142857142858, 'f': 0.17857142357142872}, 'rouge-2': {'r': 0.034482758620689655, 'p': 0.030303030303030304, 'f': 0.03225805953694146}, 'rouge-l': {'r': 0.17857142857142858, 'p': 0.17857142857142858, 'f': 0.17857142357142872}}
+BERTScore - Precision: 0.48845648765563965, Recall: 0.19687126576900482, F1: 0.28063374757766724
+
+Article 24:
+Generated Summary:    she has been busy preparing for the birth of her second child .   she has a son named dennis .   li is expected to start growing up in australia soon .   china 's 1.3 billion
+Actual Summary:  li na announces she is pregnant at the 2015 australian open.   the tennis star retired from tennis last year.   baby is due later this year. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.18181818181818182, 'p': 0.12903225806451613, 'f': 0.15094339137059468}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.18181818181818182, 'p': 0.12903225806451613, 'f': 0.15094339137059468}}
+BERTScore - Precision: 0.5055340528488159, Recall: 0.1862030327320099, F1: 0.2721611559391022
+
+Article 25:
+Generated Summary:    jamaat-e-islami party has called for a two-day general strike across bangladesh , where violence erupted .   demonstrators took to the streets chanting `` we 've taken additional measures to heighten security ''
+Actual Summary:  the demonstrations began tuesday, when abdul quader mollah was sentenced to life.   he was found guilty of 5 of 6 charges, including crimes against humanity.   he declared he is innocent and cursed the judges in court.   four people have died in related violence in the port city of chittagong. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.07317073170731707, 'p': 0.1, 'f': 0.08450703737353728}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.07317073170731707, 'p': 0.1, 'f': 0.08450703737353728}}
+BERTScore - Precision: 0.4728544354438782, Recall: 0.31817561388015747, F1: 0.3803919851779938
+
+Article 26:
+Generated Summary:    i am a Christian and i i believe in compassion .   i believe in helping those in need .   i believe in giving back to the community through giving .   i believe in giving to the needy , needy , and
+Actual Summary:  deepak chopra : giving part of inner growth, but corruption in charities makes us pause.   don't stop giving, just be smart about it. seek accountability ; ask where your money goes.   chopra : help people reach aspirations. invest in future.   give of your spirit. helping someone in person can do more than money to change a life. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.09803921568627451, 'p': 0.2631578947368421, 'f': 0.14285713890204094}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.0784313725490196, 'p': 0.21052631578947367, 'f': 0.11428571033061238}}
+BERTScore - Precision: 0.48232144117355347, Recall: 0.28934890031814575, F1: 0.3617067337036133
+
+Article 27:
+Generated Summary:    england are two points ahead of burnley and liverpool in the fair play rankings .   west ham are two points ahead of burnley and liverpool in the fair play rankings .   r/y : positive play , r
+Actual Summary:  west ham are top of the premier league ` respect and fair play'rankings.   the top three nations in the rankings qualify for a europa league place.   england are currently third, but west ham will need to rely on their rivals avoiding misdemeanours in continental competitions this season. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.25, 'p': 0.47619047619047616, 'f': 0.3278688479441011}, 'rouge-2': {'r': 0.08695652173913043, 'p': 0.18181818181818182, 'f': 0.11764705444636694}, 'rouge-l': {'r': 0.25, 'p': 0.47619047619047616, 'f': 0.3278688479441011}}
+BERTScore - Precision: 0.5399335026741028, Recall: 0.30799776315689087, F1: 0.39224478602409363
+
+Article 28:
+Generated Summary:    the institute for science and international security said tuesday it had examined updated commercial satellite imagery of iran and found evidence of slow , but continuing , build-out of nuclear facilities .   iran has a controversial nuclear program .  
+Actual Summary:  images reveal minor changes at a heavy water reactor, group says.   the ardakan plant is being built very slowly, it says.   a recent iaea report cited `` increasing '' concerns over iran's nuclear aspirations. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.12121212121212122, 'p': 0.125, 'f': 0.12307691807810672}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.12121212121212122, 'p': 0.125, 'f': 0.12307691807810672}}
+BERTScore - Precision: 0.5049855709075928, Recall: 0.22539135813713074, F1: 0.31167298555374146
+
+Article 29:
+Generated Summary:    hostages were loaded onto ferries .   the convoy being led by six boko haram gunmen was stopped on the chadian part of the border .   officials say they feared the hostages would be forced conscripted as foot soldiers
+Actual Summary:  islamist terror group abducted 97 people last week, security sources say.   chadian security forces stopped a convoy along lake chad.   85 of the hostages in the convoy were rescued, authorities said. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.27586206896551724, 'p': 0.25, 'f': 0.2622950769793067}, 'rouge-2': {'r': 0.0967741935483871, 'p': 0.08571428571428572, 'f': 0.09090908592745665}, 'rouge-l': {'r': 0.1724137931034483, 'p': 0.15625, 'f': 0.16393442124160187}}
+BERTScore - Precision: 0.5577970743179321, Recall: 0.20745986700057983, F1: 0.3024356961250305
+
+Article 30:
+Generated Summary:    mcilroy is the third european to win dubai desert classic title since the 2007 dubai desert classic .   koepka has won the dubai desert classic title twice .   mcilroy has led for much
+Actual Summary:  rory mcilroy leads at halfway of the dubai desert classic.   cards a two-under 70 for a two-round total of 11-under 133.   brooks koepka nearest challenger a shot further back.   tiger woods eight off the pace after a disappointing 73. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.2, 'p': 0.35, 'f': 0.2545454499173554}, 'rouge-2': {'r': 0.07692307692307693, 'p': 0.12, 'f': 0.09374999523925806}, 'rouge-l': {'r': 0.2, 'p': 0.35, 'f': 0.2545454499173554}}
+BERTScore - Precision: 0.5947027206420898, Recall: 0.2625865340232849, F1: 0.3643132448196411
+
+Article 31:
+Generated Summary:    queen mother also had a passion for steeplechase racing and when she died in 2002 she could boast 449 winners in her royal colors .   estimate 's most notable triumph was victory at the 2013 gold cup .   the
+Actual Summary:  the queen's horse estimate wins the cartier stayer award after a stellar year.   the four-year-old filly won the 2013 gold cup at royal ascot in front of the queen.   her majesty is a keen horse racing enthusiast just like her mother and father.   prix de l'arc de triomphe winner treve takes the horse of the year gong. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.3111111111111111, 'p': 0.4117647058823529, 'f': 0.35443037484377504}, 'rouge-2': {'r': 0.05357142857142857, 'p': 0.08333333333333333, 'f': 0.06521738654064307}, 'rouge-l': {'r': 0.2, 'p': 0.2647058823529412, 'f': 0.22784809636276251}}
+BERTScore - Precision: 0.5386639833450317, Recall: 0.32903429865837097, F1: 0.40852659940719604
+
+Article 32:
+Generated Summary:    medical officials have n't determined how she died .   no weapons have been recovered .   medical officials have n't determined how he died .   no weapons have been recovered .   police say clarence newcomb ,
+Actual Summary:  clarence newcomb, 25, was arrested on friday at the home he shared with kathleen newcomb, 82, in.   kings park, on long island, police say.   officers say they found kathleen newcomb dead when they arrived.   police say clarence newcomb told them he and his grandmother had argued over what to watch on tv. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.11904761904761904, 'p': 0.2777777777777778, 'f': 0.16666666246666675}, 'rouge-2': {'r': 0.058823529411764705, 'p': 0.15, 'f': 0.08450703820670522}, 'rouge-l': {'r': 0.11904761904761904, 'p': 0.2777777777777778, 'f': 0.16666666246666675}}
+BERTScore - Precision: 0.4868478775024414, Recall: 0.3339577913284302, F1: 0.39616355299949646
+
+Article 33:
+Generated Summary:    the film is based on mandela 's autobiography .   mandela 's life is now intertwined with the liberation movement .   the film 's producer says he first started talking to the director about the rights when the iconic leader
+Actual Summary:  `` mandela : long walk to freedom '' has premiered in south africa.   the film is based on nelson mandela's autobiography.   it stars idris elba as mandela, while naomie harries plays his second wife, winnie. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.2222222222222222, 'p': 0.2962962962962963, 'f': 0.25396824907029486}, 'rouge-2': {'r': 0.11428571428571428, 'p': 0.11764705882352941, 'f': 0.11594202398655765}, 'rouge-l': {'r': 0.2222222222222222, 'p': 0.2962962962962963, 'f': 0.25396824907029486}}
+BERTScore - Precision: 0.5738886594772339, Recall: 0.21054083108901978, F1: 0.3080633580684662
+
+Article 34:
+Generated Summary:    wotherspoon was sentenced to five years in prison and fined # 3,500 .   the 53-year-old from carshalton , surrey was convicted of assault and battery .   wotherspoon admitted touching
+Actual Summary:  hugh robert wotherspoon, 54, admitted touching his female victim during bus journey.   married father-of-two fined # 3,500 and ordered to undergo sexual behaviour programme. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.28, 'p': 0.2916666666666667, 'f': 0.28571428071636823}, 'rouge-2': {'r': 0.125, 'p': 0.11538461538461539, 'f': 0.11999999500800021}, 'rouge-l': {'r': 0.24, 'p': 0.25, 'f': 0.24489795418575602}}
+BERTScore - Precision: 0.5652682185173035, Recall: 0.21775750815868378, F1: 0.3143993616104126
+
+Article 35:
+Generated Summary:    police said the six men were taken to hospital with five others early today having taken 2cb .   ecstasy is also popular with students .   2cb is also known as bromo , nexus , cb , performax ,
+Actual Summary:  police raid house at 3am following apparent party.   students believed to have taken 2cb, which is similar to ecstasy.   officers now warning young people to beware the dangers of illegal drugs - especially.   those bought over the internet. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.19444444444444445, 'p': 0.25, 'f': 0.21874999507812512}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.16666666666666666, 'p': 0.21428571428571427, 'f': 0.18749999507812512}}
+BERTScore - Precision: 0.5174718499183655, Recall: 0.23012416064739227, F1: 0.3185752034187317
+
+Article 36:
+Generated Summary:    police have not confirmed the identity of the body .   aig insurance company executive who was missing for a week is dead , his family said .   he was last seen around 11 p.m. on january 8 . 
+Actual Summary:  omar meza, 33, went missing on january 8 at a resort in palm desert, california.   his jacket and wallet were found on the resort's golf course, news outlets report.   the body of a male was found, but it hasn't been identified, authorities say. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.24390243902439024, 'p': 0.2857142857142857, 'f': 0.2631578897680056}, 'rouge-2': {'r': 0.06976744186046512, 'p': 0.08333333333333333, 'f': 0.07594936212786445}, 'rouge-l': {'r': 0.21951219512195122, 'p': 0.2571428571428571, 'f': 0.23684210029432146}}
+BERTScore - Precision: 0.5555946826934814, Recall: 0.2420940101146698, F1: 0.33723968267440796
+
+Article 37:
+Generated Summary:    witnesses said the plane burst into flames after it crashed near trier .   witnesses told police that the plane burst into flames after it crashed near trier .   authorities are investigating what caused the crash .   local fire officials told
+Actual Summary:  a plane crashed and burst into flames in western germany.   all four people aboard were killed, police say.   authorities are investigating what caused the crash. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.5, 'p': 0.5416666666666666, 'f': 0.5199999950080001}, 'rouge-2': {'r': 0.32, 'p': 0.2962962962962963, 'f': 0.30769230269970416}, 'rouge-l': {'r': 0.46153846153846156, 'p': 0.5, 'f': 0.47999999500800006}}
+BERTScore - Precision: 0.6418657898902893, Recall: 0.20288577675819397, F1: 0.30831652879714966
+
+Article 38:
+Generated Summary:    shaun hooley , 38 , from barnsley , south yorkshire , had already been at work for four hours when he got a call to say his partner had gone in labour .   he called his employer tates travel
+Actual Summary:  shaun hooley had been a bus driver for 17 years before he was fired.   he asked for cover driver but drove bus back to the depot.   employers said they arranged cover but he left early anyway. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.26666666666666666, 'p': 0.25, 'f': 0.2580645111342353}, 'rouge-2': {'r': 0.027777777777777776, 'p': 0.02702702702702703, 'f': 0.027397255274911776}, 'rouge-l': {'r': 0.23333333333333334, 'p': 0.21875, 'f': 0.22580644661810625}}
+BERTScore - Precision: 0.5075748562812805, Recall: 0.193428635597229, F1: 0.2801113426685333
+
+Article 39:
+Generated Summary:    park staff said he could not ride on the white-knuckle ride because he does not have any hands .   park officials said he could not ride on the white-knuckle ride because he does not have any hands .  
+Actual Summary:  michael green queued for an hour so he could ride the texas giant.   but park staff refused him entry on the white-knuckle ride.   he was then told he could not ride anything at the theme park by customer service department. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.2727272727272727, 'p': 0.5294117647058824, 'f': 0.359999995512}, 'rouge-2': {'r': 0.1794871794871795, 'p': 0.3333333333333333, 'f': 0.2333333287833334}, 'rouge-l': {'r': 0.2727272727272727, 'p': 0.5294117647058824, 'f': 0.359999995512}}
+BERTScore - Precision: 0.650988757610321, Recall: 0.2696533203125, F1: 0.38134533166885376
+
+Article 40:
+Generated Summary:    united beat united 3-2 in the premier league on thursday .   united scored the first goal in the premier league and united had a third goal in the premier league .   united scored the first goal in the premier league and
+Actual Summary:  manchester united beats hull 3-2 for a fifth straight win in all competitions.   united trailed 2-0 within 13 minutes before wayne rooney sparks a comeback.   rooney sets up one goal, scores another and played a part in united's winner.   it was only the second home defeat of the season for steve bruce's hull. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.13043478260869565, 'p': 0.375, 'f': 0.1935483832674298}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.13043478260869565, 'p': 0.375, 'f': 0.1935483832674298}}
+BERTScore - Precision: 0.6203981041908264, Recall: 0.34078076481819153, F1: 0.43991756439208984
+
+Article 41:
+Generated Summary:    austin hudson-lapore , 20 , is a biochemistry major .   family say he left his home without his cell phone and wallet on his way to watch a storm .   family say he left his home without
+Actual Summary:  austin hudson-lapore had left his apartment last wednesday to view the storm rolling into chicago.   a fisherman noticed austin's body a week later when he went fishing on lake michigan. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.3, 'p': 0.375, 'f': 0.33333332839506175}, 'rouge-2': {'r': 0.06666666666666667, 'p': 0.07142857142857142, 'f': 0.06896551224732497}, 'rouge-l': {'r': 0.3, 'p': 0.375, 'f': 0.33333332839506175}}
+BERTScore - Precision: 0.5283678770065308, Recall: 0.22703507542610168, F1: 0.31760016083717346
+
+Article 42:
+Generated Summary:    factorydesign 's director adam white said that the seats would be difficult to get in and out of , comparing it to hopping into a large 4x4 vehicle , but admitted that they would not suit passengers with mobility issues .   factory
+Actual Summary:  london-based firm factorydesign have created a new ` air lair'model.   company were commission by firm that has supplied british airways.   ` double-decker'formation means passengers get 30 percent more room.   design has movable seats that can be positioned to lie flat or sit upright. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.2, 'p': 0.21621621621621623, 'f': 0.20779220279979774}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.15, 'p': 0.16216216216216217, 'f': 0.1558441508517458}}
+BERTScore - Precision: 0.4664692282676697, Recall: 0.26378774642944336, F1: 0.3370015323162079
+
+Article 43:
+Generated Summary:    lowery , 24 , pleaded guilty to theft of # 56,427 from december , 2005 to may , 2012 .   he admitted stealing from his great-grandmother brenda lowery 's bank account without taking any of it
+Actual Summary:  richard lowery was dumped by his parents aged 4, and great-grandmother brenda stepped in.   lowery stole money from her bank account for seven years.   despite this brenda wrote to the judge begging for leniency. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.25, 'p': 0.2857142857142857, 'f': 0.266666661688889}, 'rouge-2': {'r': 0.058823529411764705, 'p': 0.058823529411764705, 'f': 0.05882352441176514}, 'rouge-l': {'r': 0.25, 'p': 0.2857142857142857, 'f': 0.266666661688889}}
+BERTScore - Precision: 0.49944281578063965, Recall: 0.21680720150470734, F1: 0.30236032605171204
+
+Article 44:
+Generated Summary:    the man has been charged with eight offences , including dangerous driving occasioning grievous bodily harm , two counts of causing bodily harm by misconduct , and negligent driving occasioning griev gillian mcdonald was one of seven cyclists hit by car in
+Actual Summary:  a caringbah man, 27, has been charged after he allegedly hit seven cyclists with his car.   the cyclists'injuries range from abrasions to serious spinal fractures.   charges include dangerous driving occasioning grievous bodily harm. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.4411764705882353, 'p': 0.4411764705882353, 'f': 0.4411764655882353}, 'rouge-2': {'r': 0.24242424242424243, 'p': 0.20512820512820512, 'f': 0.22222221725694455}, 'rouge-l': {'r': 0.38235294117647056, 'p': 0.38235294117647056, 'f': 0.38235293617647065}}
+BERTScore - Precision: 0.5884639620780945, Recall: 0.2768869996070862, F1: 0.3765825033187866
+
+Article 45:
+Generated Summary:    dothan gordon , 32 , was pronounced dead at the scene .   police have named a man killed in a shooting that also left his partner with serious injuries .   dothan gordon , 32 , was pronounced dead
+Actual Summary:  police have launched a murder inquiry into the death of dothan gordon, 32, but no arrests have been made. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.2631578947368421, 'p': 0.19230769230769232, 'f': 0.22222221734320996}, 'rouge-2': {'r': 0.05263157894736842, 'p': 0.03571428571428571, 'f': 0.04255318667270313}, 'rouge-l': {'r': 0.21052631578947367, 'p': 0.15384615384615385, 'f': 0.17777777289876556}}
+BERTScore - Precision: 0.5110769271850586, Recall: 0.2240491807460785, F1: 0.3115284740924835
+
+Article 46:
+Generated Summary:    his daughter 's injuries were later confirmed to be non-life threatening .   greg horn , 35 , has been charged with child endangerment and corporal punishment .   his daughter 's injuries were later confirmed to be non
+Actual Summary:  greg horn, 35, whipped daughters, aged 12 and 14, with cable wire at home in dayton, ohio. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.16666666666666666, 'p': 0.12, 'f': 0.13953487885343446}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.1111111111111111, 'p': 0.08, 'f': 0.0930232509464578}}
+BERTScore - Precision: 0.3900808095932007, Recall: 0.21480867266654968, F1: 0.2770513892173767
+
+Article 47:
+Generated Summary:    the 21-year-old has scored twice in his 17 club appearances so far this season and has scored five bookings .   he is expected to be included in the william carvalho squad for brazil .   united
+Actual Summary:  the 21-year-old was monitored against academica on sunday evening.   carvalho's contract is up in 2018 and his release clause is # 37.5 m.   real madrid and barcelona are also looking at him.   carvalho made his portugal debut against sweden in november. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.18421052631578946, 'p': 0.2413793103448276, 'f': 0.20895521897081765}, 'rouge-2': {'r': 0.023809523809523808, 'p': 0.03225806451612903, 'f': 0.027397255387503212}, 'rouge-l': {'r': 0.15789473684210525, 'p': 0.20689655172413793, 'f': 0.17910447270216096}}
+BERTScore - Precision: 0.5525442957878113, Recall: 0.281656950712204, F1: 0.37311846017837524
+
+Article 48:
+Generated Summary:    william told the new york daily news that he wears his new sweater only as socks .   he has been a nypd officer since 2007 .   william was a nypd officer for nypd , which
+Actual Summary:  officer carlos ramos saw robert william shivering in the freezing new york weather on friday morning.   he had only a thermal undershirt on and was ripping up his other shirt to wrap around his feet as socks.   ramos gave william the sweater he was wearing under his uniform. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.3170731707317073, 'p': 0.5, 'f': 0.38805969674314994}, 'rouge-2': {'r': 0.041666666666666664, 'p': 0.06666666666666667, 'f': 0.051282046548323905}, 'rouge-l': {'r': 0.2682926829268293, 'p': 0.4230769230769231, 'f': 0.3283582042058365}}
+BERTScore - Precision: 0.5296470522880554, Recall: 0.258400559425354, F1: 0.34734222292900085
+
+Article 49:
+Generated Summary:    the prank went awry after a 15-year-old girl was allegedly shot dead by noble 's arkansas homeowner .   the prank went wrong when noble and her friends covered noble 's car with leaves , eggs and may
+Actual Summary:  adrian broadway, 15, was shot and killed outside the home of willie noble in little rock, arkanas.   broadway was struck in the head and died in arkansas children's hospital on saturday morning.   noble, 48, has been arrested and charged with first-degree murder.   it is thought that broadway and her five friends were pranking on mr. noble in retaliation for a halloween trick his son played on them
+ROUGE Score: {'rouge-1': {'r': 0.18181818181818182, 'p': 0.3448275862068966, 'f': 0.2380952335742631}, 'rouge-2': {'r': 0.015384615384615385, 'p': 0.03125, 'f': 0.02061855227973312}, 'rouge-l': {'r': 0.18181818181818182, 'p': 0.3448275862068966, 'f': 0.2380952335742631}}
+BERTScore - Precision: 0.54265958070755, Recall: 0.4947648048400879, F1: 0.5176066160202026
+
+Article 50:
+Generated Summary:    conjoined twins survive infancy .   they are often found in panvel , raigad district , panvel .   records have shown around 600 sets of . conjoined twins survived infancy .   doctors believe the condition is more
+Actual Summary:  the twins are joined by the bottom half of their torso.   their mother shalu pawar gave birth at her home rather than hospital. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.18181818181818182, 'p': 0.14814814814814814, 'f': 0.16326530117451077}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.18181818181818182, 'p': 0.14814814814814814, 'f': 0.16326530117451077}}
+BERTScore - Precision: 0.44169881939888, Recall: 0.1797405481338501, F1: 0.2555074393749237
+
+Article 51:
+Generated Summary:    video begins with the young man holding an arrow-shaped sign as a dubstep beat plays in the background .   signspinning is seen throwing the sign into a spin above his head .   the video is spreading online . 
+Actual Summary:  the menial job of holding an advertising board is taken to a new level.   professional dancer spotted the talent by the road and filmed him.   performance big hit after it was posted to 360,000 subscribers on youtube. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.14285714285714285, 'p': 0.1724137931034483, 'f': 0.1562499950439455}, 'rouge-2': {'r': 0.02702702702702703, 'p': 0.02857142857142857, 'f': 0.027777772781636702}, 'rouge-l': {'r': 0.14285714285714285, 'p': 0.1724137931034483, 'f': 0.1562499950439455}}
+BERTScore - Precision: 0.49106520414352417, Recall: 0.21322859823703766, F1: 0.2973450720310211
+
+Article 52:
+Generated Summary:    the animals are trying to convince hipsters to stop their beloved beards from going feral .   the brand is also trying to convince hipsters to stop their beloved beards from going feral .   schick have also launched a competition
+Actual Summary:  new zealand razor brand schick hope to convince hipsters to shave.   campaign highlights ` feral'facial hair and encourages men to #freeyourskin. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.25, 'p': 0.22727272727272727, 'f': 0.23809523310657604}, 'rouge-2': {'r': 0.14285714285714285, 'p': 0.12, 'f': 0.13043477764650302}, 'rouge-l': {'r': 0.25, 'p': 0.22727272727272727, 'f': 0.23809523310657604}}
+BERTScore - Precision: 0.533737301826477, Recall: 0.24053913354873657, F1: 0.33162498474121094
+
+Article 53:
+Generated Summary:    smith received her stars from wife tracey hepner , the first time her longtime partner was recognized as a major .   smith received her stars from wife tracey hepner , the first time her longtime partner was recognized as a
+Actual Summary:  ` what is relevant is upholding army values and the responsibility this carries,'u.s. army reserve officer says of her milestone appointment.   president barack obama repealed ` don't ask, don't tell,'the military's ban on allowing openly gay service members in december 2010. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.05128205128205128, 'p': 0.10526315789473684, 'f': 0.06896551283590992}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.05128205128205128, 'p': 0.10526315789473684, 'f': 0.06896551283590992}}
+BERTScore - Precision: 0.34824109077453613, Recall: 0.2514638304710388, F1: 0.2920437753200531
+
+Article 54:
+Generated Summary:    george entwistle will work under the new bbc director general .   he will be able to make decisions on production units and staff .   new bbc chief executive george entwistle will be based at a plastic
+Actual Summary:  george entwistle will have a pay cut of 40 %.   he 'll also travel to work on the underground. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.45, 'p': 0.3333333333333333, 'f': 0.38297871851516524}, 'rouge-2': {'r': 0.10526315789473684, 'p': 0.06896551724137931, 'f': 0.0833333285503475}, 'rouge-l': {'r': 0.45, 'p': 0.3333333333333333, 'f': 0.38297871851516524}}
+BERTScore - Precision: 0.5210304260253906, Recall: 0.19837389886379242, F1: 0.2873455882072449
+
+Article 55:
+Generated Summary:    spears , 32 , also posted a scathing review of `` britney jean '' on her website .   `` i poured my heart and soul into this album , '' she says .   the singer also posted a scathing review of
+Actual Summary:  britney spears'eighth studio album was released on december 3.   the record, `` britney jean, '' is intended to be more intimate.   yet some critics have found the disc to be impenetrable. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.21428571428571427, 'p': 0.20689655172413793, 'f': 0.21052631079101272}, 'rouge-2': {'r': 0.03333333333333333, 'p': 0.030303030303030304, 'f': 0.031746026757370406}, 'rouge-l': {'r': 0.21428571428571427, 'p': 0.20689655172413793, 'f': 0.21052631079101272}}
+BERTScore - Precision: 0.4836423993110657, Recall: 0.32604408264160156, F1: 0.38950565457344055
+
+Article 56:
+Generated Summary:    the department for energy and climate change admits the secondees ` need to be paid '   private sector firms are expected to make # 1.4 bn profits after tax this year .   the department for energy and climate change admits
+Actual Summary:  firms like british gas and npower have staff on secondment to whitehall.   green mp caroline lucas says companies will expect ` something in return'  officials insist it helps shape government police. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.125, 'p': 0.13333333333333333, 'f': 0.12903225306971924}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.09375, 'p': 0.1, 'f': 0.09677418855359028}}
+BERTScore - Precision: 0.4557340741157532, Recall: 0.2390652596950531, F1: 0.3136162757873535
+
+Article 57:
+Generated Summary:    it kills off bacteria that help blood vessels relax .   researchers say it is ` a disaster ' for health .   it is ` a disaster ' for health '   it kills off ` good ' bacteria that help blood vessels relax
+Actual Summary:  mouthwash brand corsodyl has been found to increase blood pressure.   study found blood pressure rose between 2 and 3.5 units for daily users. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.09090909090909091, 'p': 0.10526315789473684, 'f': 0.09756097063652613}, 'rouge-2': {'r': 0.0, 'p': 0.0, 'f': 0.0}, 'rouge-l': {'r': 0.09090909090909091, 'p': 0.10526315789473684, 'f': 0.09756097063652613}}
+BERTScore - Precision: 0.4183351993560791, Recall: 0.29620975255966187, F1: 0.34683603048324585
+
+Article 58:
+Generated Summary:    holland play spain in the opening game of group b in salvador 's arena fonte nova .   holland play spain in the opening game of group b in salvador 's arena fonte no
+Actual Summary:  de jong caught spain's xabi alonso with a high challenge during the 2010 world cup final.   the dutchman says his side's game with spain in brazil will be clean.   holland also face chile and australia in group b. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.19444444444444445, 'p': 0.4375, 'f': 0.26923076497041426}, 'rouge-2': {'r': 0.05263157894736842, 'p': 0.11764705882352941, 'f': 0.07272726845619859}, 'rouge-l': {'r': 0.16666666666666666, 'p': 0.375, 'f': 0.23076922650887582}}
+BERTScore - Precision: 0.5271510481834412, Recall: 0.2755900025367737, F1: 0.3619537353515625
+
+Article 59:
+Generated Summary:    some people may get better in a few days .   west nile virus is spread through eating on infected birds and then spreading to people they bite .   it is spread by feeding on infected birds and then spreading to people they bite
+Actual Summary:  parts of the city's upper west side and central park will be sprayed.   some of the highest west nile virus numbers in past decade.   spraying will run from 1am to 6am friday morning. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.23333333333333334, 'p': 0.25, 'f': 0.241379305350773}, 'rouge-2': {'r': 0.0625, 'p': 0.06666666666666667, 'f': 0.06451612403746138}, 'rouge-l': {'r': 0.23333333333333334, 'p': 0.25, 'f': 0.241379305350773}}
+BERTScore - Precision: 0.44971728324890137, Recall: 0.2131248563528061, F1: 0.28919684886932373
+
+Article 60:
+Generated Summary:    birds have been spotted in the alleys surrounding las vegas since last week .   the birds are mostly roosters and pigeons , and they appear in perfect condition except that their heads have been lopped off .   re
+Actual Summary:  piles of dead birds have been spotted in alleys across the city.   headless chickens may be cleansing ritual, african ifa priest says. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.30434782608695654, 'p': 0.23333333333333334, 'f': 0.2641509384834461}, 'rouge-2': {'r': 0.18181818181818182, 'p': 0.11764705882352941, 'f': 0.14285713808673486}, 'rouge-l': {'r': 0.2608695652173913, 'p': 0.2, 'f': 0.2264150894268424}}
+BERTScore - Precision: 0.5349323749542236, Recall: 0.15575163066387177, F1: 0.2412581890821457
+
+Article 61:
+Generated Summary:    the social mobility tsar said the ` hidden have-nots ' suffer in ` net curtain poverty '   the social mobility tsar warned that the ` hidden have-nots ' suffer in ` net curtain poverty '   the
+Actual Summary:  graduates who went to private schools still dominate modern britain.   social mobility and child poverty commission reveals scale of challenge.   alan milburn warns middle class children suffer as well as the poor.   ex-labour minister says they are victims of ` entrenched elitism'<|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.15, 'p': 0.375, 'f': 0.21428571020408166}, 'rouge-2': {'r': 0.024390243902439025, 'p': 0.05, 'f': 0.032786880838484876}, 'rouge-l': {'r': 0.15, 'p': 0.375, 'f': 0.21428571020408166}}
+BERTScore - Precision: 0.5217596292495728, Recall: 0.3402300477027893, F1: 0.41188034415245056
+
+Article 62:
+Generated Summary:    the work is also made from 100 layers of coloured paper .   the project takes about eight months to complete .   it is called demeter .   standley took inspiration by the gothic , islamic and is
+Actual Summary:  eric standley spends up to 80 hours using a laser-cutter for one piece of art.   the layers of coloured paper are stacked by hand and bound into a flipbook. <|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|><|pad|>
+ROUGE Score: {'rouge-1': {'r': 0.32142857142857145, 'p': 0.3103448275862069, 'f': 0.31578946868574953}, 'rouge-2': {'r': 0.10344827586206896, 'p': 0.09375, 'f': 0.0983606507497987}, 'rouge-l': {'r': 0.32142857142857145, 'p': 0.3103448275862069, 'f': 0.31578946868574953}}
+BERTScore - Precision: 0.5327804088592529, Recall: 0.18839237093925476, F1: 0.27835702896118164
+
+Article 63:
+Generated Summary:    he was found dead in his apartment on tuesday .   the bank says he had hooked up with a stranger for sex monday using the website backpage .   the doorman of miller 's building at 120 greenwich
+Actual Summary:  police investigating the death of citigroup banker shawn d. miller, 42.   body was found in the bathtub of his financial district apartment tuesday with a laceration to the throat.   no signs of forced entry and no weapon found at the scene.   police suspect foul play.   surveillance footage shows miller going into his apartment with a man on monday night about 6.30 pm.   the man then left alone.   miller
+ROUGE Score: {'rouge-1': {'r': 0.25925925925925924, 'p': 0.4375, 'f': 0.3255813906760411}, 'rouge-2': {'r': 0.04477611940298507, 'p': 0.08823529411764706, 'f': 0.05940593612783094}, 'rouge-l': {'r': 0.25925925925925924, 'p': 0.4375, 'f': 0.3255813906760411}}
+BERTScore - Precision: 0.6063193678855896, Recall: 0.5291938781738281, F1: 0.5651373863220215
+
+Article 64:

@@ -1,0 +1,1140 @@
+
+
+time = 08/12/2023 13:09:08, average_loss = 91.73009300231934, step = 10
+
+
+time = 08/12/2023 13:09:08, perplexity = tensor(inf), step = 10
+
+
+time = 08/12/2023 13:11:20, average_loss = 76.5969981765747, step = 20
+
+
+time = 08/12/2023 13:11:20, perplexity = tensor(1.8435e+33), step = 20
+
+
+time = 08/12/2023 13:13:33, average_loss = 61.91976216316223, step = 30
+
+
+time = 08/12/2023 13:13:33, perplexity = tensor(7.7877e+26), step = 30
+
+
+time = 08/12/2023 13:15:46, average_loss = 23.187892263889314, step = 40
+
+
+time = 08/12/2023 13:15:46, perplexity = tensor(1.1759e+10), step = 40
+
+
+time = 08/12/2023 13:17:58, average_loss = 6.8947732107639315, step = 50
+
+
+time = 08/12/2023 13:17:58, perplexity = tensor(987.1016), step = 50
+
+
+time = 08/12/2023 13:20:10, average_loss = 4.473207331061364, step = 60
+
+
+time = 08/12/2023 13:20:10, perplexity = tensor(87.6374), step = 60
+
+
+time = 08/12/2023 13:22:22, average_loss = 3.1750868975520135, step = 70
+
+
+time = 08/12/2023 13:22:22, perplexity = tensor(23.9289), step = 70
+
+
+time = 08/12/2023 13:24:34, average_loss = 2.971160115659237, step = 80
+
+
+time = 08/12/2023 13:24:34, perplexity = tensor(19.5145), step = 80
+
+
+time = 08/12/2023 13:26:47, average_loss = 2.3628216500878336, step = 90
+
+
+time = 08/12/2023 13:26:47, perplexity = tensor(10.6209), step = 90
+
+
+time = 08/12/2023 13:57:58, average_loss = 94.55331232261658, step = 10
+
+
+time = 08/12/2023 13:57:58, perplexity = tensor(inf), step = 10
+
+
+time = 08/12/2023 14:02:25, average_loss = 80.86731954193115, step = 20
+
+
+time = 08/12/2023 14:02:25, perplexity = tensor(1.3190e+35), step = 20
+
+
+time = 08/12/2023 14:06:50, average_loss = 70.44675990629196, step = 30
+
+
+time = 08/12/2023 14:06:50, perplexity = tensor(3.9322e+30), step = 30
+
+
+time = 08/12/2023 14:11:41, average_loss = 20.859678275346756, step = 40
+
+
+time = 08/12/2023 14:11:41, perplexity = tensor(1.1462e+09), step = 40
+
+
+time = 08/12/2023 14:16:17, average_loss = 6.064520726501942, step = 50
+
+
+time = 08/12/2023 14:16:17, perplexity = tensor(430.3164), step = 50
+
+
+time = 08/12/2023 14:20:54, average_loss = 4.960313278406859, step = 60
+
+
+time = 08/12/2023 14:20:54, perplexity = tensor(142.6385), step = 60
+
+
+time = 08/12/2023 14:30:01, average_loss = 3.494130356699228, step = 70
+
+
+time = 08/12/2023 14:30:01, perplexity = tensor(32.9216), step = 70
+
+
+time = 08/12/2023 14:38:36, average_loss = 2.765100365191698, step = 80
+
+
+time = 08/12/2023 14:38:36, perplexity = tensor(15.8806), step = 80
+
+
+time = 08/12/2023 14:45:26, average_loss = 2.9029042821079494, step = 90
+
+
+time = 08/12/2023 14:45:26, perplexity = tensor(18.2270), step = 90
+
+
+time = 08/12/2023 14:49:53, average_loss = 2.229895894810557, step = 100
+
+
+time = 08/12/2023 14:49:53, perplexity = tensor(9.2989), step = 100
+
+
+time = 08/12/2023 14:54:19, average_loss = 2.237416473045945, step = 110
+
+
+time = 08/12/2023 14:54:19, perplexity = tensor(9.3691), step = 110
+
+
+time = 08/12/2023 14:58:46, average_loss = 2.1766325933933257, step = 120
+
+
+time = 08/12/2023 14:58:46, perplexity = tensor(8.8166), step = 120
+
+
+time = 08/12/2023 15:06:15, average_loss = 2.1773018824756147, step = 130
+
+
+time = 08/12/2023 15:06:15, perplexity = tensor(8.8225), step = 130
+
+
+time = 08/12/2023 15:10:41, average_loss = 2.107970393329859, step = 140
+
+
+time = 08/12/2023 15:10:41, perplexity = tensor(8.2315), step = 140
+
+
+time = 08/12/2023 15:19:08, average_loss = 2.0683713620454074, step = 150
+
+
+time = 08/12/2023 15:19:08, perplexity = tensor(7.9119), step = 150
+
+
+time = 08/12/2023 15:23:33, average_loss = 2.0473690959513187, step = 160
+
+
+time = 08/12/2023 15:23:33, perplexity = tensor(7.7475), step = 160
+
+
+time = 08/12/2023 15:31:02, average_loss = 2.02455700327456, step = 170
+
+
+time = 08/12/2023 15:31:02, perplexity = tensor(7.5728), step = 170
+
+
+time = 08/12/2023 15:35:26, average_loss = 2.04788826200366, step = 180
+
+
+time = 08/12/2023 15:35:26, perplexity = tensor(7.7515), step = 180
+
+
+time = 08/12/2023 15:39:52, average_loss = 1.963882864817977, step = 190
+
+
+time = 08/12/2023 15:39:52, perplexity = tensor(7.1269), step = 190
+
+
+time = 08/12/2023 15:47:18, average_loss = 1.9337647944241763, step = 200
+
+
+time = 08/12/2023 15:47:18, perplexity = tensor(6.9155), step = 200
+
+
+time = 08/12/2023 15:51:44, average_loss = 1.9324340967684983, step = 210
+
+
+time = 08/12/2023 15:51:44, perplexity = tensor(6.9063), step = 210
+
+
+time = 08/12/2023 15:56:10, average_loss = 1.935845930069685, step = 220
+
+
+time = 08/12/2023 15:56:10, perplexity = tensor(6.9299), step = 220
+
+
+time = 08/12/2023 16:00:37, average_loss = 1.9287915744185449, step = 230
+
+
+time = 08/12/2023 16:00:37, perplexity = tensor(6.8812), step = 230
+
+
+time = 08/12/2023 16:05:04, average_loss = 1.9081981142312288, step = 240
+
+
+time = 08/12/2023 16:05:04, perplexity = tensor(6.7409), step = 240
+
+
+time = 08/12/2023 16:09:30, average_loss = 1.9054424789100886, step = 250
+
+
+time = 08/12/2023 16:09:30, perplexity = tensor(6.7224), step = 250
+
+
+time = 08/12/2023 16:13:57, average_loss = 1.8992371405512094, step = 260
+
+
+time = 08/12/2023 16:13:57, perplexity = tensor(6.6808), step = 260
+
+
+time = 08/12/2023 16:18:23, average_loss = 1.8929718960374593, step = 270
+
+
+time = 08/12/2023 16:18:23, perplexity = tensor(6.6391), step = 270
+
+
+time = 08/12/2023 16:22:50, average_loss = 1.8793632102757691, step = 280
+
+
+time = 08/12/2023 16:22:50, perplexity = tensor(6.5493), step = 280
+
+
+time = 08/12/2023 16:27:16, average_loss = 1.873703540250659, step = 290
+
+
+time = 08/12/2023 16:27:16, perplexity = tensor(6.5124), step = 290
+
+
+time = 08/12/2023 16:31:42, average_loss = 1.8752419025748968, step = 300
+
+
+time = 08/12/2023 16:31:42, perplexity = tensor(6.5224), step = 300
+
+
+time = 08/12/2023 16:36:08, average_loss = 1.8676189162284136, step = 310
+
+
+time = 08/12/2023 16:36:08, perplexity = tensor(6.4729), step = 310
+
+
+time = 08/12/2023 16:41:13, average_loss = 1.859372110977769, step = 322
+
+
+time = 08/12/2023 16:41:13, perplexity = tensor(6.4197), step = 322
+
+
+time = 08/12/2023 16:45:39, average_loss = 1.875814324684441, step = 332
+
+
+time = 08/12/2023 16:45:39, perplexity = tensor(6.5261), step = 332
+
+
+time = 08/12/2023 16:50:06, average_loss = 1.86556529776752, step = 342
+
+
+time = 08/12/2023 16:50:06, perplexity = tensor(6.4596), step = 342
+
+
+time = 08/12/2023 16:54:32, average_loss = 1.852456961609423, step = 352
+
+
+time = 08/12/2023 16:54:32, perplexity = tensor(6.3755), step = 352
+
+
+time = 08/12/2023 17:02:04, average_loss = 1.8633664987161755, step = 362
+
+
+time = 08/12/2023 17:02:04, perplexity = tensor(6.4454), step = 362
+
+
+time = 08/12/2023 17:10:26, average_loss = 1.850227624244988, step = 372
+
+
+time = 08/12/2023 17:10:26, perplexity = tensor(6.3613), step = 372
+
+
+time = 08/12/2023 17:17:33, average_loss = 1.8520429886989296, step = 382
+
+
+time = 08/12/2023 17:17:33, perplexity = tensor(6.3728), step = 382
+
+
+time = 08/12/2023 17:24:57, average_loss = 1.8564280468299985, step = 392
+
+
+time = 08/12/2023 17:24:57, perplexity = tensor(6.4008), step = 392
+
+
+time = 08/12/2023 17:34:03, average_loss = 1.855377866730094, step = 402
+
+
+time = 08/12/2023 17:34:03, perplexity = tensor(6.3941), step = 402
+
+
+time = 08/12/2023 17:39:01, average_loss = 1.844586300810799, step = 412
+
+
+time = 08/12/2023 17:39:01, perplexity = tensor(6.3255), step = 412
+
+
+time = 08/12/2023 19:26:03, average_loss = 93.81050030517578, step = 10
+
+
+time = 08/12/2023 19:26:03, perplexity = tensor(inf), step = 10
+
+
+time = 08/12/2023 19:30:13, average_loss = 63.863421628952025, step = 20
+
+
+time = 08/12/2023 19:30:13, perplexity = tensor(5.4392e+27), step = 20
+
+
+time = 08/12/2023 19:34:03, average_loss = 13.807030126571656, step = 30
+
+
+time = 08/12/2023 19:34:03, perplexity = tensor(991555.), step = 30
+
+
+time = 08/12/2023 19:37:45, average_loss = 3.8810693078041076, step = 40
+
+
+time = 08/12/2023 19:37:45, perplexity = tensor(48.4760), step = 40
+
+
+time = 09/12/2023 11:04:27, average_loss = 83.69252213287353, step = 10
+
+
+time = 09/12/2023 11:04:27, perplexity = tensor(2.2243e+36), step = 10
+
+
+time = 09/12/2023 11:06:58, average_loss = 50.92654695892334, step = 20
+
+
+time = 09/12/2023 11:06:58, perplexity = tensor(1.3095e+22), step = 20
+
+
+time = 09/12/2023 11:09:27, average_loss = 10.605626567840575, step = 30
+
+
+time = 09/12/2023 11:09:27, perplexity = tensor(40361.2773), step = 30
+
+
+time = 09/12/2023 11:11:52, average_loss = 5.34037734413147, step = 40
+
+
+time = 09/12/2023 11:11:52, perplexity = tensor(208.5914), step = 40
+
+
+time = 09/12/2023 11:14:30, average_loss = 3.3411997677087784, step = 50
+
+
+time = 09/12/2023 11:14:30, perplexity = tensor(28.2530), step = 50
+
+
+time = 09/12/2023 11:17:13, average_loss = 2.818817577004433, step = 60
+
+
+time = 09/12/2023 11:17:13, perplexity = tensor(16.7570), step = 60
+
+
+time = 09/12/2023 11:19:49, average_loss = 2.624320685148239, step = 70
+
+
+time = 09/12/2023 11:19:49, perplexity = tensor(13.7952), step = 70
+
+
+time = 09/12/2023 11:22:23, average_loss = 2.4006894874572753, step = 80
+
+
+time = 09/12/2023 11:22:23, perplexity = tensor(11.0308), step = 80
+
+
+time = 09/12/2023 11:24:50, average_loss = 2.4651033527851105, step = 90
+
+
+time = 09/12/2023 11:24:50, perplexity = tensor(11.7647), step = 90
+
+
+time = 09/12/2023 11:27:15, average_loss = 2.546521432638168, step = 100
+
+
+time = 09/12/2023 11:27:15, perplexity = tensor(12.7626), step = 100
+
+
+time = 09/12/2023 11:29:44, average_loss = 2.247258655548096, step = 110
+
+
+time = 09/12/2023 11:29:44, perplexity = tensor(9.4618), step = 110
+
+
+time = 09/12/2023 11:32:09, average_loss = 2.194326742053032, step = 120
+
+
+time = 09/12/2023 11:32:09, perplexity = tensor(8.9740), step = 120
+
+
+time = 09/12/2023 11:40:33, average_loss = 91.07742756652831, step = 10
+
+
+time = 09/12/2023 11:40:33, perplexity = tensor(inf), step = 10
+
+
+time = 09/12/2023 11:43:05, average_loss = 56.88865951538086, step = 20
+
+
+time = 09/12/2023 11:43:05, perplexity = tensor(5.0866e+24), step = 20
+
+
+time = 09/12/2023 11:45:33, average_loss = 11.45038215970993, step = 30
+
+
+time = 09/12/2023 11:45:33, perplexity = tensor(93937.2422), step = 30
+
+
+time = 09/12/2023 11:48:02, average_loss = 5.128417893648147, step = 40
+
+
+time = 09/12/2023 11:48:02, perplexity = tensor(168.7499), step = 40
+
+
+time = 09/12/2023 11:50:31, average_loss = 3.3166216040849688, step = 50
+
+
+time = 09/12/2023 11:50:31, perplexity = tensor(27.5671), step = 50
+
+
+time = 09/12/2023 11:53:02, average_loss = 2.9235985785722733, step = 60
+
+
+time = 09/12/2023 11:53:02, perplexity = tensor(18.6081), step = 60
+
+
+time = 09/12/2023 11:55:31, average_loss = 2.8436556859016417, step = 70
+
+
+time = 09/12/2023 11:55:31, perplexity = tensor(17.1784), step = 70
+
+
+time = 09/12/2023 11:57:57, average_loss = 2.4734352718591692, step = 80
+
+
+time = 09/12/2023 11:57:57, perplexity = tensor(11.8631), step = 80
+
+
+time = 09/12/2023 12:00:19, average_loss = 2.511840008974075, step = 90
+
+
+time = 09/12/2023 12:00:19, perplexity = tensor(12.3276), step = 90
+
+
+time = 09/12/2023 12:02:49, average_loss = 2.6046290007829667, step = 100
+
+
+time = 09/12/2023 12:02:49, perplexity = tensor(13.5262), step = 100
+
+
+time = 09/12/2023 12:05:16, average_loss = 2.2753893998861314, step = 110
+
+
+time = 09/12/2023 12:05:16, perplexity = tensor(9.7317), step = 110
+
+
+time = 09/12/2023 12:07:44, average_loss = 2.204200011253357, step = 120
+
+
+time = 09/12/2023 12:07:44, perplexity = tensor(9.0630), step = 120
+
+
+time = 09/12/2023 12:11:48, average_loss = 2.204807771205902, step = 138
+
+
+time = 09/12/2023 12:11:48, perplexity = tensor(9.0685), step = 138
+
+
+time = 09/12/2023 12:26:47, average_loss = 2.1702412475347517, step = 148
+
+
+time = 09/12/2023 12:26:47, perplexity = tensor(8.7604), step = 148
+
+
+time = 09/12/2023 12:29:17, average_loss = 2.150255237340927, step = 158
+
+
+time = 09/12/2023 12:29:17, perplexity = tensor(8.5870), step = 158
+
+
+time = 09/12/2023 12:31:43, average_loss = 2.140525738954544, step = 168
+
+
+time = 09/12/2023 12:31:43, perplexity = tensor(8.5039), step = 168
+
+
+time = 09/12/2023 12:34:09, average_loss = 2.1228728203773497, step = 178
+
+
+time = 09/12/2023 12:34:09, perplexity = tensor(8.3551), step = 178
+
+
+time = 09/12/2023 12:36:36, average_loss = 2.1312233823537827, step = 188
+
+
+time = 09/12/2023 12:36:36, perplexity = tensor(8.4252), step = 188
+
+
+time = 09/12/2023 12:45:04, average_loss = 2.1316856989860535, step = 198
+
+
+time = 09/12/2023 12:45:04, perplexity = tensor(8.4291), step = 198
+
+
+time = 09/12/2023 12:47:22, average_loss = 2.1335664386749267, step = 208
+
+
+time = 09/12/2023 12:47:22, perplexity = tensor(8.4449), step = 208
+
+
+time = 09/12/2023 12:49:40, average_loss = 2.097749214529991, step = 218
+
+
+time = 09/12/2023 12:49:40, perplexity = tensor(8.1478), step = 218
+
+
+time = 09/12/2023 12:52:00, average_loss = 2.0936613761186598, step = 228
+
+
+time = 09/12/2023 12:52:00, perplexity = tensor(8.1146), step = 228
+
+
+time = 09/12/2023 12:54:19, average_loss = 2.101238049507141, step = 238
+
+
+time = 09/12/2023 12:54:19, perplexity = tensor(8.1763), step = 238
+
+
+time = 09/12/2023 12:57:40, average_loss = 2.086708989739418, step = 248
+
+
+time = 09/12/2023 12:57:40, perplexity = tensor(8.0584), step = 248
+
+
+time = 09/12/2023 13:01:31, average_loss = 2.075628875494003, step = 266
+
+
+time = 09/12/2023 13:01:31, perplexity = tensor(7.9696), step = 266
+
+
+time = 09/12/2023 13:03:50, average_loss = 2.073376096487045, step = 276
+
+
+time = 09/12/2023 13:03:50, perplexity = tensor(7.9516), step = 276
+
+
+time = 09/12/2023 13:06:10, average_loss = 2.0787469563484193, step = 286
+
+
+time = 09/12/2023 13:06:10, perplexity = tensor(7.9944), step = 286
+
+
+time = 09/12/2023 13:11:36, average_loss = 2.074403661727905, step = 296
+
+
+time = 09/12/2023 13:11:36, perplexity = tensor(7.9598), step = 296
+
+
+time = 09/12/2023 13:14:05, average_loss = 2.0653383964300156, step = 306
+
+
+time = 09/12/2023 13:14:05, perplexity = tensor(7.8880), step = 306
+
+
+time = 09/12/2023 13:16:34, average_loss = 2.062494755983353, step = 316
+
+
+time = 09/12/2023 13:16:34, perplexity = tensor(7.8656), step = 316
+
+
+time = 09/12/2023 13:19:01, average_loss = 2.058334102511406, step = 326
+
+
+time = 09/12/2023 13:19:01, perplexity = tensor(7.8329), step = 326
+
+
+time = 09/12/2023 13:21:28, average_loss = 2.0581982177495957, step = 336
+
+
+time = 09/12/2023 13:21:28, perplexity = tensor(7.8318), step = 336
+
+
+time = 09/12/2023 13:23:54, average_loss = 2.058036605477333, step = 346
+
+
+time = 09/12/2023 13:23:54, perplexity = tensor(7.8306), step = 346
+
+
+time = 09/12/2023 13:52:37, average_loss = 2.0578678901195526, step = 356
+
+
+time = 09/12/2023 13:52:37, perplexity = tensor(7.8293), step = 356
+
+
+time = 09/12/2023 13:55:02, average_loss = 2.0576719571352005, step = 366
+
+
+time = 09/12/2023 13:55:02, perplexity = tensor(7.8277), step = 366
+
+
+time = 09/12/2023 13:57:30, average_loss = 2.055270106434822, step = 376
+
+
+time = 09/12/2023 13:57:30, perplexity = tensor(7.8089), step = 376
+
+
+time = 10/12/2023 12:40:32, average_loss = 75.1516345009875, step = 10
+
+
+time = 10/12/2023 12:40:32, perplexity = tensor(4.3445e+32), step = 10
+
+
+time = 10/12/2023 12:43:18, average_loss = 23.538412507917325, step = 20
+
+
+time = 10/12/2023 12:43:18, perplexity = tensor(1.6696e+10), step = 20
+
+
+time = 10/12/2023 12:45:57, average_loss = 6.289512770516532, step = 30
+
+
+time = 10/12/2023 12:45:57, perplexity = tensor(538.8906), step = 30
+
+
+time = 10/12/2023 12:48:28, average_loss = 4.1144113839308085, step = 40
+
+
+time = 10/12/2023 12:48:28, perplexity = tensor(61.2162), step = 40
+
+
+time = 10/12/2023 12:50:57, average_loss = 2.748864809905034, step = 50
+
+
+time = 10/12/2023 12:50:57, perplexity = tensor(15.6249), step = 50
+
+
+time = 10/12/2023 12:53:26, average_loss = 2.856462334582546, step = 60
+
+
+time = 10/12/2023 12:53:26, perplexity = tensor(17.3999), step = 60
+
+
+time = 10/12/2023 12:55:55, average_loss = 2.1639316858513267, step = 70
+
+
+time = 10/12/2023 12:55:55, perplexity = tensor(8.7053), step = 70
+
+
+time = 10/12/2023 13:00:31, average_loss = 2.0689629821825637, step = 80
+
+
+time = 10/12/2023 13:00:31, perplexity = tensor(7.9166), step = 80
+
+
+time = 10/12/2023 13:03:05, average_loss = 2.173641050770593, step = 90
+
+
+time = 10/12/2023 13:03:05, perplexity = tensor(8.7902), step = 90
+
+
+time = 10/12/2023 13:05:33, average_loss = 2.053358426925216, step = 100
+
+
+time = 10/12/2023 13:05:33, perplexity = tensor(7.7940), step = 100
+
+
+time = 10/12/2023 13:08:01, average_loss = 1.9668939872337048, step = 110
+
+
+time = 10/12/2023 13:08:01, perplexity = tensor(7.1484), step = 110
+
+
+time = 10/12/2023 13:12:08, average_loss = 1.955699096896501, step = 127
+
+
+time = 10/12/2023 13:12:08, perplexity = tensor(7.0689), step = 127
+
+
+time = 10/12/2023 13:14:51, average_loss = 1.9454796412733317, step = 137
+
+
+time = 10/12/2023 13:14:51, perplexity = tensor(6.9970), step = 137
+
+
+time = 10/12/2023 13:17:22, average_loss = 1.9190185350586357, step = 147
+
+
+time = 10/12/2023 13:17:22, perplexity = tensor(6.8143), step = 147
+
+
+time = 10/12/2023 13:19:49, average_loss = 1.9141961070520284, step = 157
+
+
+time = 10/12/2023 13:19:49, perplexity = tensor(6.7815), step = 157
+
+
+time = 10/12/2023 13:22:23, average_loss = 1.9241949848846587, step = 167
+
+
+time = 10/12/2023 13:22:23, perplexity = tensor(6.8496), step = 167
+
+
+time = 10/12/2023 13:24:53, average_loss = 1.9153059846493228, step = 177
+
+
+time = 10/12/2023 13:24:53, perplexity = tensor(6.7890), step = 177
+
+
+time = 10/12/2023 13:27:24, average_loss = 1.9118819758454875, step = 187
+
+
+time = 10/12/2023 13:27:24, perplexity = tensor(6.7658), step = 187
+
+
+time = 10/12/2023 13:29:52, average_loss = 1.9046252511584683, step = 197
+
+
+time = 10/12/2023 13:29:52, perplexity = tensor(6.7169), step = 197
+
+
+time = 10/12/2023 13:32:22, average_loss = 1.898365994188577, step = 207
+
+
+time = 10/12/2023 13:32:22, perplexity = tensor(6.6750), step = 207
+
+
+time = 10/12/2023 13:34:51, average_loss = 1.9402121258442844, step = 217
+
+
+time = 10/12/2023 13:34:51, perplexity = tensor(6.9602), step = 217
+
+
+time = 10/12/2023 13:37:20, average_loss = 1.9170152101435387, step = 227
+
+
+time = 10/12/2023 13:37:20, perplexity = tensor(6.8006), step = 227
+
+
+time = 10/12/2023 13:43:27, average_loss = 1.86436135523609, step = 244
+
+
+time = 10/12/2023 13:43:27, perplexity = tensor(6.4518), step = 244
+
+
+time = 10/12/2023 13:45:44, average_loss = 1.863837148620884, step = 254
+
+
+time = 10/12/2023 13:45:44, perplexity = tensor(6.4484), step = 254
+
+
+time = 10/12/2023 13:48:01, average_loss = 1.8703810951984259, step = 264
+
+
+time = 10/12/2023 13:48:01, perplexity = tensor(6.4908), step = 264
+
+
+time = 10/12/2023 13:50:19, average_loss = 1.8527279839650401, step = 274
+
+
+time = 10/12/2023 13:50:19, perplexity = tensor(6.3772), step = 274
+
+
+time = 10/12/2023 13:52:37, average_loss = 1.846797134481005, step = 284
+
+
+time = 10/12/2023 13:52:37, perplexity = tensor(6.3395), step = 284
+
+
+time = 10/12/2023 13:56:02, average_loss = 1.8457862123815236, step = 294
+
+
+time = 10/12/2023 13:56:02, perplexity = tensor(6.3331), step = 294
+
+
+time = 10/12/2023 13:58:19, average_loss = 1.8457113479309752, step = 304
+
+
+time = 10/12/2023 13:58:19, perplexity = tensor(6.3326), step = 304
+
+
+time = 10/12/2023 14:00:37, average_loss = 1.841565782390932, step = 314
+
+
+time = 10/12/2023 14:00:37, perplexity = tensor(6.3064), step = 314
+
+
+time = 10/12/2023 14:02:55, average_loss = 1.842539106700212, step = 324
+
+
+time = 10/12/2023 14:02:55, perplexity = tensor(6.3125), step = 324
+
+
+time = 10/12/2023 14:06:21, average_loss = 1.8423400978798044, step = 334
+
+
+time = 10/12/2023 14:06:21, perplexity = tensor(6.3113), step = 334
+
+
+time = 10/12/2023 14:08:51, average_loss = 1.8429231949960754, step = 344
+
+
+time = 10/12/2023 14:08:51, perplexity = tensor(6.3150), step = 344
+
+
+time = 12/12/2023 14:25:43, average_loss = 88.33555594080292, step = 10
+
+
+time = 12/12/2023 14:25:43, perplexity = tensor(2.3102e+38), step = 10
+
+
+time = 12/12/2023 14:28:37, average_loss = 84.0598252790569, step = 20
+
+
+time = 12/12/2023 14:28:37, perplexity = tensor(3.2116e+36), step = 20
+
+
+time = 12/12/2023 14:31:39, average_loss = 76.72691777113404, step = 30
+
+
+time = 12/12/2023 14:31:39, perplexity = tensor(2.0993e+33), step = 30
+
+
+time = 12/12/2023 14:35:20, average_loss = 66.15281935083841, step = 40
+
+
+time = 12/12/2023 14:35:20, perplexity = tensor(5.3679e+28), step = 40
+
+
+time = 12/12/2023 14:37:54, average_loss = 53.31545319384349, step = 50
+
+
+time = 12/12/2023 14:37:54, perplexity = tensor(1.4276e+23), step = 50
+
+
+time = 12/12/2023 14:40:32, average_loss = 39.48671866581638, step = 60
+
+
+time = 12/12/2023 14:40:32, perplexity = tensor(1.4088e+17), step = 60
+
+
+time = 12/12/2023 14:43:06, average_loss = 23.84469500584389, step = 70
+
+
+time = 12/12/2023 14:43:06, perplexity = tensor(2.2679e+10), step = 70
+
+
+time = 12/12/2023 14:46:40, average_loss = 13.651898636492584, step = 80
+
+
+time = 12/12/2023 14:46:40, perplexity = tensor(849071.2500), step = 80
+
+
+time = 12/12/2023 14:48:59, average_loss = 11.030046419802504, step = 90
+
+
+time = 12/12/2023 14:48:59, perplexity = tensor(61700.4492), step = 90
+
+
+time = 12/12/2023 14:51:18, average_loss = 11.725311269129772, step = 100
+
+
+time = 12/12/2023 14:51:18, perplexity = tensor(123662.4922), step = 100
+
+
+time = 12/12/2023 14:53:38, average_loss = 9.854734564640882, step = 110
+
+
+time = 12/12/2023 14:53:38, perplexity = tensor(19048.3242), step = 110
+
+
+time = 12/12/2023 15:02:35, average_loss = 7.70060728684163, step = 127
+
+
+time = 12/12/2023 15:02:35, perplexity = tensor(2209.6895), step = 127
+
+
+time = 12/12/2023 15:04:53, average_loss = 6.764558325952558, step = 137
+
+
+time = 12/12/2023 15:04:53, perplexity = tensor(866.5834), step = 137
+
+
+time = 12/12/2023 15:07:11, average_loss = 6.421484230932142, step = 147
+
+
+time = 12/12/2023 15:07:11, perplexity = tensor(614.9150), step = 147
+
+
+time = 12/12/2023 15:09:30, average_loss = 6.529249188488226, step = 157
+
+
+time = 12/12/2023 15:09:30, perplexity = tensor(684.8838), step = 157
+
+
+time = 12/12/2023 15:16:57, average_loss = 4.749463291818907, step = 167
+
+
+time = 12/12/2023 15:16:57, perplexity = tensor(115.5222), step = 167
+
+
+time = 12/12/2023 15:19:14, average_loss = 4.334785689931435, step = 177
+
+
+time = 12/12/2023 15:19:14, perplexity = tensor(76.3086), step = 177
+
+
+time = 12/12/2023 15:21:32, average_loss = 3.709404439941398, step = 187
+
+
+time = 12/12/2023 15:21:32, perplexity = tensor(40.8295), step = 187
+
+
+time = 12/12/2023 15:23:51, average_loss = 3.3214698677886525, step = 197
+
+
+time = 12/12/2023 15:23:51, perplexity = tensor(27.7010), step = 197
+
+
+time = 12/12/2023 15:26:09, average_loss = 3.2510867418765006, step = 207
+
+
+time = 12/12/2023 15:26:09, perplexity = tensor(25.8184), step = 207
+
+
+time = 12/12/2023 15:29:35, average_loss = 3.1422488204578856, step = 217
+
+
+time = 12/12/2023 15:29:35, perplexity = tensor(23.1559), step = 217
+
+
+time = 12/12/2023 15:31:54, average_loss = 2.9591740620797125, step = 227
+
+
+time = 12/12/2023 15:31:54, perplexity = tensor(19.2820), step = 227
+
+
+time = 12/12/2023 15:35:43, average_loss = 2.6909744650570313, step = 244
+
+
+time = 12/12/2023 15:35:43, perplexity = tensor(14.7460), step = 244
+
+
+time = 12/12/2023 15:38:02, average_loss = 2.613860994577408, step = 254
+
+
+time = 12/12/2023 15:38:02, perplexity = tensor(13.6517), step = 254
+
+
+time = 12/12/2023 15:41:28, average_loss = 2.794170929869609, step = 264
+
+
+time = 12/12/2023 15:41:28, perplexity = tensor(16.3491), step = 264
+
+
+time = 12/12/2023 15:43:46, average_loss = 2.9574375036937086, step = 274
+
+
+time = 12/12/2023 15:43:46, perplexity = tensor(19.2486), step = 274
+
+
+time = 12/12/2023 15:46:05, average_loss = 2.900246438949601, step = 284
+
+
+time = 12/12/2023 15:46:05, perplexity = tensor(18.1786), step = 284
+
+
+time = 12/12/2023 15:48:23, average_loss = 2.873618930641776, step = 294
+
+
+time = 12/12/2023 15:48:23, perplexity = tensor(17.7010), step = 294
+
+
+time = 12/12/2023 15:54:50, average_loss = 2.5949207878570313, step = 304
+
+
+time = 12/12/2023 15:54:50, perplexity = tensor(13.3955), step = 304
+
+
+time = 12/12/2023 15:57:07, average_loss = 2.4431054095850824, step = 314
+
+
+time = 12/12/2023 15:57:07, perplexity = tensor(11.5087), step = 314
+
+
+time = 12/12/2023 15:59:25, average_loss = 2.326928883187298, step = 324
+
+
+time = 12/12/2023 15:59:25, perplexity = tensor(10.2464), step = 324
+
+
+time = 12/12/2023 16:01:44, average_loss = 2.3695555326145596, step = 334
+
+
+time = 12/12/2023 16:01:44, perplexity = tensor(10.6926), step = 334
+
+
+time = 12/12/2023 16:04:02, average_loss = 2.389137036923661, step = 344
+
+
+time = 12/12/2023 16:04:02, perplexity = tensor(10.9041), step = 344
+
+
+time = 12/12/2023 16:08:58, average_loss = 2.471625948765639, step = 361
+
+
+time = 12/12/2023 16:08:58, perplexity = tensor(11.8417), step = 361
+
+
+time = 12/12/2023 16:11:16, average_loss = 2.4140306109113734, step = 371
+
+
+time = 12/12/2023 16:11:16, perplexity = tensor(11.1789), step = 371
+
+
+time = 12/12/2023 16:13:35, average_loss = 2.238482352354125, step = 381
+
+
+time = 12/12/2023 16:13:35, perplexity = tensor(9.3791), step = 381
+
+
+time = 12/12/2023 16:15:53, average_loss = 2.166821084646528, step = 391
+
+
+time = 12/12/2023 16:15:53, perplexity = tensor(8.7305), step = 391
+
+
+time = 12/12/2023 16:21:14, average_loss = 2.1567931624173102, step = 401
+
+
+time = 12/12/2023 16:21:14, perplexity = tensor(8.6434), step = 401
+
+
+time = 12/12/2023 16:23:32, average_loss = 2.198619463264561, step = 411
+
+
+time = 12/12/2023 16:23:32, perplexity = tensor(9.0126), step = 411
+
+
+time = 12/12/2023 16:25:50, average_loss = 2.2187907609032163, step = 421
+
+
+time = 12/12/2023 16:25:50, perplexity = tensor(9.1962), step = 421
+
+
+time = 12/12/2023 16:28:08, average_loss = 2.2367323259237226, step = 431
+
+
+time = 12/12/2023 16:28:08, perplexity = tensor(9.3627), step = 431
+
+
+time = 12/12/2023 16:33:35, average_loss = 2.267022202264017, step = 441
+
+
+time = 12/12/2023 16:33:35, perplexity = tensor(9.6506), step = 441
+
+
+time = 12/12/2023 16:35:52, average_loss = 2.25530522696372, step = 451
+
+
+time = 12/12/2023 16:35:52, perplexity = tensor(9.5382), step = 451
+
+
+time = 12/12/2023 16:38:10, average_loss = 2.2749913068277747, step = 461
+
+
+time = 12/12/2023 16:38:10, perplexity = tensor(9.7278), step = 461
+
+
+time = 12/12/2023 16:41:58, average_loss = 2.2562870015658296, step = 478
+
+
+time = 12/12/2023 16:41:58, perplexity = tensor(9.5476), step = 478
+
+
+time = 12/12/2023 16:47:24, average_loss = 2.2738872098643133, step = 488
+
+
+time = 12/12/2023 16:47:24, perplexity = tensor(9.7171), step = 488
+
+
+time = 12/12/2023 16:49:42, average_loss = 2.307776050082148, step = 498
+
+
+time = 12/12/2023 16:49:42, perplexity = tensor(10.0520), step = 498
+
+
+time = 12/12/2023 16:52:00, average_loss = 2.33153419561986, step = 508
+
+
+time = 12/12/2023 16:52:00, perplexity = tensor(10.2937), step = 508
+
+
+time = 12/12/2023 16:54:18, average_loss = 2.3273058856156337, step = 518
+
+
+time = 12/12/2023 16:54:18, perplexity = tensor(10.2503), step = 518
+
+
+time = 12/12/2023 16:56:37, average_loss = 2.325300942796634, step = 528
+
+
+time = 12/12/2023 16:56:37, perplexity = tensor(10.2298), step = 528
+
+
+time = 12/12/2023 17:02:02, average_loss = 2.2816625421108214, step = 538
+
+
+time = 12/12/2023 17:02:02, perplexity = tensor(9.7929), step = 538
+
+
+time = 12/12/2023 17:04:20, average_loss = 2.26020161763056, step = 548
+
+
+time = 12/12/2023 17:04:20, perplexity = tensor(9.5850), step = 548
+
+
+time = 12/12/2023 17:06:38, average_loss = 2.265120594168523, step = 558
+
+
+time = 12/12/2023 17:06:38, perplexity = tensor(9.6323), step = 558
+
+
+time = 12/12/2023 17:08:56, average_loss = 2.27062021939358, step = 568
+
+
+time = 12/12/2023 17:08:56, perplexity = tensor(9.6854), step = 568
+
+
+time = 12/12/2023 17:13:25, average_loss = 2.259742731002094, step = 578
+
+
+time = 12/12/2023 17:13:25, perplexity = tensor(9.5806), step = 578
