@@ -19,4 +19,3 @@ The analysis revealed that different models have varied strengths in summarizati
 
 All authors have contributed to revising and finalizing the research report collaboratively.
 
-## Repository Structure
