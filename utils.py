@@ -136,7 +136,7 @@ def calculate_bertscore(reference, hypothesis):
     :param hypothesis: Generate text.
     :return: Returns the P, R, F1 scores of BERTScore.
     """
-    P, R, F1 = score([hypothesis], [reference], lang='en', model_type='bert-base-uncased')
+    P, R, F1 = score([hypothesis], [reference], lang='en')
     return P.item(), R.item(), F1.item()
 
 def generate_beam_sample(data, tokenizer, model, num=1, length=100, beam_size=3, device=torch.device('cuda'), br_eval =  False):

@@ -162,10 +162,9 @@ def main():
     parser.add_argument("--ids_file",default='ids_1024_less.json', type=str, help="location of train, valid and test file indexes")
     args = parser.parse_args()
 
-    train_data = GPT21024Dataset_new('train_dataset.csv') #training on only 3000 datasets
-    valid_data = GPT21024Dataset_new('valid_dataset.csv')  #validation on only 500 datasets
-    #train_data = GPT21024Dataset(args.root_dir,args.ids_file,mode='train',length=500) #training on only 3000 datasets
-    #valid_data = GPT21024Dataset(args.root_dir,args.ids_file,mode='valid',length=500)  #validation on only 500 datasets
+    train_data = GPT21024Dataset_new('train_dataset.csv')
+    valid_data = GPT21024Dataset_new('valid_dataset.csv')
+
     tokenizer = add_special_tokens()
     ignore_idx = tokenizer.pad_token_id
     model = GPT2LMHeadModel.from_pretrained('gpt2')
